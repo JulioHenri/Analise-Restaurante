@@ -1,2 +1,8 @@
 # Analise-Restaurante
- Análise de um resturante utilizando seaborn, scipy e pandas
+Notebook introdutório de análise de dados de dados de um restaurante fictício.
+Ferramentas utilizadas:
+<li>Data Visualization</li>
+<li>Exploratory Data Analysis</li>
+<li>Pandas</li> 
+<li>Seaborn</li> 
+<li>Scipy</li> 
