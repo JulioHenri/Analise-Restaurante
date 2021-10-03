@@ -1,5 +1,5 @@
 # Analise-Restaurante
-Notebook introdutório de análise de dados de dados de um restaurante fictício.
+Notebook introdutório de análise de dados de um restaurante fictício.
 Ferramentas utilizadas:
 <li>Data Visualization</li>
 <li>Exploratory Data Analysis</li>
