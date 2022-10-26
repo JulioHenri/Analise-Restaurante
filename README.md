@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/-UpWork-brightgreen/?style=flat&logo=upwork&logoColor=white" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.123rf.com%2Fphoto_69882874_equipa-do-restaurante-chef-cozinheiro-gerente-gar%25C3%25A7om-ilustra%25C3%25A7%25C3%25A3o-de-um-design-plano.html&psig=AOvVaw2d3JoGV1mSj5-dwl-G4kuR&ust=1666875465475000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJD16JH5_foCFQAAAAAdAAAAABAP" />
 </p>
 
 Notebook introdutório de análise de dados de um restaurante fictício.
