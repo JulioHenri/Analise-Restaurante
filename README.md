@@ -12,3 +12,5 @@ Ferramentas utilizadas:
 <li>Pandas</li> 
 <li>Seaborn</li> 
 <li>Scipy</li> 
+
+Última versão do notebook pode ser vista <a href="https://github.com/JulioHenri/Analise-Restaurante/blob/master/Análise_restaurante_2.ipynb"> aqui </a>.
