@@ -7,6 +7,7 @@ A indústria alimentícia é mais uma área beneficiada com o grande aumento dos
 Dito isso, criei esse projeto no intuito de explicitar como a análise de dados pode beneficiar restaurantes, identificando tendências, buscando correlações e modelando o comportamento dos clientes.
 
 Ferramentas utilizadas:
+<li>Python</li>
 <li>Data Visualization</li>
 <li>Exploratory Data Analysis</li>
 <li>Pandas</li> 
