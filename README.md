@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 <p align="center">
-<img src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.123rf.com%2Fphoto_69882874_equipa-do-restaurante-chef-cozinheiro-gerente-gar%25C3%25A7om-ilustra%25C3%25A7%25C3%25A3o-de-um-design-plano.html&psig=AOvVaw2d3JoGV1mSj5-dwl-G4kuR&ust=1666875465475000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJD16JH5_foCFQAAAAAdAAAAABAP](https://us.123rf.com/450wm/tynyuk/tynyuk1701/tynyuk170100354/69882874-restaurant-team-chef-cook-manager-waiter-vector-illustration-of-a-flat-design.jpg)](https://us.123rf.com/450wm/tynyuk/tynyuk1701/tynyuk170100354/69882874-restaurant-team-chef-cook-manager-waiter-vector-illustration-of-a-flat-design.jpg)" />
+<img src="![image](https://user-images.githubusercontent.com/64214285/198032232-4b6868e3-19b8-4fc0-8c13-a11bd3e03274.png)" />
 </p>
 
 Notebook introdutório de análise de dados de um restaurante fictício.
