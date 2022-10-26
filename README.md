@@ -1,4 +1,7 @@
 # Analise-Restaurante
+</p>
+<p align="center">
+</p>
 ![image](https://user-images.githubusercontent.com/64214285/198029886-96f05f5b-91a4-4771-997c-ccf0cf465057.png)
 
 Notebook introdutório de análise de dados de um restaurante fictício.
