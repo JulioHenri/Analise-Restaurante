@@ -1,4 +1,4 @@
-# Analise-Restaurante
+# Análise de gorjetas de um restaurante
 ![image](https://user-images.githubusercontent.com/64214285/198032287-93b0af9d-673a-4cb0-977f-613de1d0c7dc.png)
 
 Notebook introdutório de análise de dados de um restaurante fictício.
